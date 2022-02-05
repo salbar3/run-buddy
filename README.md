@@ -11,3 +11,5 @@ A website that offers fitness training services.
 
 ## Contribution
 Made with ❤️ by Salvador Barragan III
+
+## ©2019 Run Buddy, Inc
